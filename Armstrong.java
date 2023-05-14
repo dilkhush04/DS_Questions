@@ -16,11 +16,11 @@ class Armstrong
 	}
 	if(sum==num)
 	{
-	System.out.println("is armstrong number:");	
+	System.out.println("Armstrong number:");	
 	}
 	else
 	{
-		System.out.println(" not aarmstrong number:");
+		System.out.println("Not Armstrong number:");
 	}
 
  }
